@@ -1,2 +1,3 @@
-# maternal-birthweight-analysis
-Report-aligned SAS analysis of maternal factors and newborn birth weight
+# Maternal Birthweight Analysis
+
+Standalone SAS analysis. Data schema and provenance are documented in data/README.md.

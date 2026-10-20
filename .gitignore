@@ -1,0 +1,8 @@
+outputs/*
+!outputs/.gitkeep
+*.log
+*.lst
+*.sas7bdat
+*.sas7bcat
+__pycache__/
+.DS_Store
